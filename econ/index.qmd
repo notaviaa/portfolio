@@ -1,0 +1,10 @@
+---
+title: "Economics and Finance Home Page"
+listing:
+    contents: .
+    type: default
+    sort: "date desc"
+    fields: [date, title, description]
+---
+
+This is all the economics and finance related post will be
