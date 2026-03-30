@@ -1,8 +1,16 @@
 [
   {
-    "listing": "/econ/index.html",
+    "listing": "/shorts/index.html",
     "items": [
-      "/econ/posts/econ1.html"
+      "/shorts/posts/econ1.html",
+      "/shorts/posts/econ2.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/shorts/posts/econ1.html",
+      "/shorts/posts/econ2.html"
     ]
   }
 ]

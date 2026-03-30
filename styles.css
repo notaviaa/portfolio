@@ -1,1 +1,19 @@
 /* css styles */
+.profile-pic {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.btn-dark {
+  border-radius: 8px;
+  padding: 10px 24px;
+  font-weight: 500;
+  color: aliceblue;
+  border: 1px solid #9900ff;
+  background-color: #1f0ed7;
+  white-space: nowrap;
+  min-width: 180px;      
+  text-align: center;
+}

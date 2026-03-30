@@ -1,5 +1,33 @@
----
-title: "Andy Nguyen"
----
+<!-- Introduction -->
+# Hey there, I'm Andy! {#tip-aboutme}
+::: {.columns}
+::: {.column width="70%"}
 
-::: {column}
+Economics & Finance student with a dashed of specialty in Data Science
+
+I'm exploring the grey area between Finance, Economics and Data, and over-analyze most of it over these articles, and interactive projects
+
+These articles are not limited to Finance or Economics only, but may include anything that are interesting to me also (and hopefully to you too!)
+:::
+::: {.column width="30%"}
+![](sources/pfp.jpg){.profile-pic}
+:::
+:::
+<!-- end columns -->
+
+# What should I do now?
+There are an abundance of things for you to do here. You can check out my articles and blogs, or have a look at my history and experiences. I hope whatever bring you here will keep you here for a little bit longer.
+
+In order to help you out, I have already ***"curated"*** an experience based on why you are here - based on my beliefs of what you want to see. Feel free to use these button to help yourself out!
+
+
+:::{layout="[20, 20, 20]" style="display: flex; gap: 20px; align-items: center;"}
+[I'm a Recruiter](#tip-history){.btn .btn-dark}
+
+[I came from LinkedIn](#tip-history){.btn .btn-dark}
+
+[You sent me here yourself](#tip-history){.btn .btn-dark}
+:::
+
+
+# Go through my Blogs

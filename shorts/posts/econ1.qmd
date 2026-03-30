@@ -1,0 +1,14 @@
+---
+title: "python test"
+date: 2026-03-31
+description: "testing for python site"
+toc: true
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+```{python}
+print("hello world")
+```

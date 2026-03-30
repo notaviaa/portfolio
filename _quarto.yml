@@ -2,13 +2,12 @@ project:
   type: website
 
 website:
-  title: "portfolio"
+  title: "Andy Nguyen"
+  search: false
   navbar:
     left:
-      - href: index.qmd
-        text: About Me
-      - href: econ/index.qmd
-        text: Economics
+      - href: shorts/index.qmd
+        text: Short Posts
 
 format:
   html:
@@ -17,6 +16,9 @@ format:
       - brand
     css: styles.css
     toc: true
+    toc-location: "left"
+    toc-title: "On this page"
 
 
-
+execute:
+  python: .venv/bin/python

@@ -2,36 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About me",
+    "title": "Hey there, I’m Andy!",
     "section": "",
-    "text": "My name is Andy"
+    "text": "Hey there, I’m Andy!\n\n\nEconomics & Finance student with a dashed of specialty in Data Science\nI’m exploring the grey area between Finance, Economics and Data, and over-analyze most of it over these articles, and interactive projects\nThese articles are not limited to Finance or Economics only, but may include anything that are interesting to me also (and hopefully to you too!)\n\n\n\n\n\n\n\nWhat should I do now?\nThere are an abundance of things for you to do here. You can check out my articles and blogs, or have a look at my history and experiences. I hope whatever bring you here will keep you here for a little bit longer.\nIn order to help you out, I have already “curated” an experience based on why you are here - based on my beliefs of what you want to see. Feel free to use these button to help yourself out!\n\n\n\nI’m a Recruiter\n\n\nI came from LinkedIn\n\n\nYou sent me here yourself\n\n\n\n\n\nGo through my Blogs"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "shorts/posts/econ1.html",
+    "href": "shorts/posts/econ1.html",
+    "title": "python test",
     "section": "",
-    "text": "About this site"
+    "text": "print(\"hello world\")\n\nhello world"
   },
   {
-    "objectID": "econ.html",
-    "href": "econ.html",
-    "title": "Economics and Finance",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "econ/posts/econ1.html",
-    "href": "econ/posts/econ1.html",
-    "title": "OLG Model Visualisation",
-    "section": "",
-    "text": "One one One oneOne oneOne oneOne one"
-  },
-  {
-    "objectID": "econ/index.html",
-    "href": "econ/index.html",
+    "objectID": "shorts/index.html",
+    "href": "shorts/index.html",
     "title": "Economics and Finance Home Page",
     "section": "",
-    "text": "This is all the economics and finance related post will be\n\n\n\n\n\n\n\n\n\nOLG Model Visualisation\n\n\nTest\n\n\n\n\n\nAug 5, 2026\n\n\n\n\n\nNo matching items"
+    "text": "This is all the economics and finance related post will be\n\n\n\n\n\n\n\n\n\npython test\n\n\ntesting for python site\n\n\n\n\n\nMar 31, 2026\n\n\n\n\n\n\n\nR Studio Test\n\n\nTesting for R Studio\n\n\n\n\n\nMar 31, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "shorts/posts/econ2.html",
+    "href": "shorts/posts/econ2.html",
+    "title": "R Studio Test",
+    "section": "",
+    "text": "print(\"Hello World\")\n\n[1] \"Hello World\""
+  },
+  {
+    "objectID": "index.html#go-through-my-blogs",
+    "href": "index.html#go-through-my-blogs",
+    "title": "Hey there, I’m Andy",
+    "section": "",
+    "text": "listing: contents: shorts/posts type: default sort: “date desc” fields: [date, title, description] —"
   }
 ]

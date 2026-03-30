@@ -1,2 +1,7 @@
 /.quarto/
 **/*.quarto_ipynb
+.venv/
+renv/
+.Rproj.user/
+_site/
+.quarto/
