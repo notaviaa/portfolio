@@ -1,0 +1,18 @@
+---
+---
+
+# Andy (Duy) Nguyen
+::: {.columns}
+::: {.column width="70%"}
+
+I'm Andy, a final-year Economics & Finance student at the University of Melbourne. My background sits at the overlap of markets and data — I've done sell-side advisory at PwC and BCA, macroeconomics research at HSC, and I build quantitative models in Python and R alongside the usual finance toolkit.
+
+:::
+::: {.column width="30%"}
+![](sources/pfp.jpg){.profile-pic}
+:::
+:::
+
+# History
+
+Started 

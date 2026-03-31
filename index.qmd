@@ -3,7 +3,7 @@
 ::: {.columns}
 ::: {.column width="70%"}
 
-Economics & Finance student with a dashed of specialty in Data Science
+Economics & Finance student with a dashed of specialty in Data Science and Data Analytics
 
 I'm exploring the grey area between Finance, Economics and Data, and over-analyze most of it over these articles, and interactive projects
 
@@ -21,8 +21,8 @@ There are an abundance of things for you to do here. You can check out my articl
 In order to help you out, I have already ***"curated"*** an experience based on why you are here - based on my beliefs of what you want to see. Feel free to use these button to help yourself out!
 
 
-:::{layout="[20, 20, 20]" style="display: flex; gap: 20px; align-items: center;"}
-[I'm a Recruiter](#tip-history){.btn .btn-dark}
+:::{layout="[33, 33, 33]" style="display: flex; gap: 20px; align-items: center;"}
+[I'm a Recruiter](Recruiter.qmd){.btn .btn-dark}
 
 [I came from LinkedIn](#tip-history){.btn .btn-dark}
 

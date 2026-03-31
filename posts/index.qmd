@@ -1,7 +1,7 @@
 ---
 title: "Economics and Finance Home Page"
 listing:
-    contents: .
+    contents: posts/essay
     type: default
     sort: "date desc"
     fields: [date, title, description]

@@ -2,6 +2,7 @@
   {
     "listing": "/shorts/index.html",
     "items": [
+      "/shorts/view/recruiter.html",
       "/shorts/posts/econ1.html",
       "/shorts/posts/econ2.html"
     ]
@@ -12,5 +13,9 @@
       "/shorts/posts/econ1.html",
       "/shorts/posts/econ2.html"
     ]
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": []
   }
 ]

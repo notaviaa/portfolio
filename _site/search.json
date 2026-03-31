@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Hey there, I’m Andy!",
     "section": "",
-    "text": "Hey there, I’m Andy!\n\n\nEconomics & Finance student with a dashed of specialty in Data Science\nI’m exploring the grey area between Finance, Economics and Data, and over-analyze most of it over these articles, and interactive projects\nThese articles are not limited to Finance or Economics only, but may include anything that are interesting to me also (and hopefully to you too!)\n\n\n\n\n\n\n\nWhat should I do now?\nThere are an abundance of things for you to do here. You can check out my articles and blogs, or have a look at my history and experiences. I hope whatever bring you here will keep you here for a little bit longer.\nIn order to help you out, I have already “curated” an experience based on why you are here - based on my beliefs of what you want to see. Feel free to use these button to help yourself out!\n\n\n\nI’m a Recruiter\n\n\nI came from LinkedIn\n\n\nYou sent me here yourself\n\n\n\n\n\nGo through my Blogs"
+    "text": "Hey there, I’m Andy!\n\n\nEconomics & Finance student with a dashed of specialty in Data Science and Data Analytics\nI’m exploring the grey area between Finance, Economics and Data, and over-analyze most of it over these articles, and interactive projects\nThese articles are not limited to Finance or Economics only, but may include anything that are interesting to me also (and hopefully to you too!)\n\n\n\n\n\n\n\nWhat should I do now?\nThere are an abundance of things for you to do here. You can check out my articles and blogs, or have a look at my history and experiences. I hope whatever bring you here will keep you here for a little bit longer.\nIn order to help you out, I have already “curated” an experience based on why you are here - based on my beliefs of what you want to see. Feel free to use these button to help yourself out!\n\n\n\nI’m a Recruiter\n\n\nI came from LinkedIn\n\n\nYou sent me here yourself\n\n\n\n\n\nGo through my Blogs"
   },
   {
     "objectID": "shorts/posts/econ1.html",
@@ -18,7 +18,7 @@
     "href": "shorts/index.html",
     "title": "Economics and Finance Home Page",
     "section": "",
-    "text": "This is all the economics and finance related post will be\n\n\n\n\n\n\n\n\n\npython test\n\n\ntesting for python site\n\n\n\n\n\nMar 31, 2026\n\n\n\n\n\n\n\nR Studio Test\n\n\nTesting for R Studio\n\n\n\n\n\nMar 31, 2026\n\n\n\n\n\nNo matching items"
+    "text": "This is all the economics and finance related post will be\n\n\n\n\n\n\n\n\n\nHey there, I’m Andy!\n\n\n\n\n\n\n\n\n\n\n\n\n\npython test\n\n\ntesting for python site\n\n\n\n\n\nMar 31, 2026\n\n\n\n\n\n\n\nR Studio Test\n\n\nTesting for R Studio\n\n\n\n\n\nMar 31, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "shorts/posts/econ2.html",
@@ -33,5 +33,117 @@
     "title": "Hey there, I’m Andy",
     "section": "",
     "text": "listing: contents: shorts/posts type: default sort: “date desc” fields: [date, title, description] —"
+  },
+  {
+    "objectID": "shorts/view/recruiter.html",
+    "href": "shorts/view/recruiter.html",
+    "title": "Hey there, I’m Andy!",
+    "section": "",
+    "text": "Hey there, I’m Andy!\n\n\nEconomics & Finance student with a dashed of specialty in Data Science\nI’m exploring the grey area between Finance, Economics and Data, and over-analyze most of it over these articles, and interactive projects\nThese articles are not limited to Finance or Economics only, but may include anything that are interesting to me also (and hopefully to you too!)"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Economics and Finance Home Page",
+    "section": "",
+    "text": "This is all the economics and finance related post will be\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/essay/econ1.html",
+    "href": "posts/essay/econ1.html",
+    "title": "python test",
+    "section": "",
+    "text": "print(\"hello world\")\n\nhello world"
+  },
+  {
+    "objectID": "recruiter.html",
+    "href": "recruiter.html",
+    "title": "Thank you for taking a further interest into me!",
+    "section": "",
+    "text": "I know that you don’t have that much time to review my profile, so I will try to keep it as short as possible!\n\n\n\n\nI’m an Economics & Finance Major"
+  },
+  {
+    "objectID": "posts/essay/econ2.html",
+    "href": "posts/essay/econ2.html",
+    "title": "R Studio Test",
+    "section": "",
+    "text": "print(\"Hello World\")\n\n[1] \"Hello World\""
+  },
+  {
+    "objectID": "recruiter.html#my-name-is-andy",
+    "href": "recruiter.html#my-name-is-andy",
+    "title": "Thank you for taking a further interest into me!",
+    "section": "",
+    "text": "Economics & Finance student with a dashed of specialty in Data Science\nI’m exploring the grey area between Finance, Economics and Data, and over-analyze most of it over these articles, and interactive projects\nThese articles are not limited to Finance or Economics only, but may include anything that are interesting to me also (and hopefully to you too!)"
+  },
+  {
+    "objectID": "recruiter.html#im-andy-nguyen",
+    "href": "recruiter.html#im-andy-nguyen",
+    "title": "Thank you for taking a further interest into me!",
+    "section": "",
+    "text": "I’m an Economics & Finance Major"
+  },
+  {
+    "objectID": "Recruiter.html",
+    "href": "Recruiter.html",
+    "title": "Andy (Duy) Nguyen",
+    "section": "",
+    "text": "Andy (Duy) Nguyen\n\n\nI’m Andy, a final-year Economics & Finance student at the University of Melbourne. My background sits at the overlap of markets and data — I’ve done sell-side advisory at PwC and BCA, macroeconomics research at HSC, and I build quantitative models in Python and R alongside the usual finance toolkit.\n\n\n\n\n\n\nHistory\nStarted"
+  },
+  {
+    "objectID": "Recruiter.html#im-andy-nguyen",
+    "href": "Recruiter.html#im-andy-nguyen",
+    "title": "Thank you for your interest!",
+    "section": "I’m Andy NGUYEN",
+    "text": "I’m Andy NGUYEN\n\n\nI’m an Economics & Finance Major that takes a heavy interest (and expertise) in Data Science and Machine Learning\nComing from a relatively traditional background (of Economics and Finance), I believe in the strong connection between"
+  },
+  {
+    "objectID": "posts/posts/econ2.html",
+    "href": "posts/posts/econ2.html",
+    "title": "R Studio Test",
+    "section": "",
+    "text": "print(\"Hello World\")\n\n[1] \"Hello World\""
+  },
+  {
+    "objectID": "posts/posts/econ1.html",
+    "href": "posts/posts/econ1.html",
+    "title": "python test",
+    "section": "",
+    "text": "print(\"hello world\")\n\nhello world"
+  },
+  {
+    "objectID": "Recruiter.html#experience",
+    "href": "Recruiter.html#experience",
+    "title": "Andy (Duy) Nguyen",
+    "section": "Experience",
+    "text": "Experience\nHo Chi Minh City Securities Corporation (HSC) | Macroeconomics Analyst Intern | Dec 2025 – Feb 2026\n\nAuthored an end-to-end US monetary outlook report covering inflation, the labor market, and stock market forecasting\nBuilt and maintained a data pipeline pulling 10,000+ data points from FRED, BEA, and government databases using Python and AI\nDeveloped sector trading comparables across Vietnam and APAC for the Equities Research team\n\nBCA Partners Vietnam | Investment Banking Analyst Intern | Jun 2025 – Jul 2025\n\nDrafted Investment Memorandums, teasers, and client presentations for sell-side M&A advisory across Vietnam and SEA\nBuilt a multi-scenario DCF model for a Vietnamese logistics company capital raise, benchmarked against regional comparable and precedent transactions\nCompiled a 50+ target investor list for an SEA EdTech startup using an AI-assisted web scraping program\n\nPwC Vietnam | Corporate Finance (M&A) Advisory Intern | Nov 2024 – Feb 2025\n\nBuilt and maintained a multi-sector deal sourcing database of 60 companies across Food Processing, Pharma, and Education using Capital IQ and Mergermarket\nCompiled and ranked a 150+ target investor list for a private K-12 education provider capital raise using web scraping and PwC’s Salesforce CRM\nBuilt peer comparables for 30 private education providers across 20+ financial and operational metrics"
+  },
+  {
+    "objectID": "Recruiter.html#education",
+    "href": "Recruiter.html#education",
+    "title": "Andy (Duy) Nguyen",
+    "section": "Education",
+    "text": "Education\nUniversity of Melbourne | Bachelor of Commerce, Finance & Economics | 2023 – 2026\nData Science Breadth Track: Data Wrangling & Visualisation, Machine Learning, Database Systems\nCertifications: FMVA (CFI) | Investment Banking & PE Specialisation (CFI)"
+  },
+  {
+    "objectID": "Recruiter.html#skills",
+    "href": "Recruiter.html#skills",
+    "title": "Andy (Duy) Nguyen",
+    "section": "Skills",
+    "text": "Skills\n\n\n\n\n\n\n\nModelling\nDCF, LBO, 3-Statement, Merger Model, Comparable Company & Transaction Analysis\n\n\nPlatforms\nS&P Capital IQ, Mergermarket, Salesforce CRM\n\n\nTechnical\nPython, SQL, OpenAI API, Claude API\n\n\nOffice\nMicrosoft 365"
+  },
+  {
+    "objectID": "Recruiter.html#writing",
+    "href": "Recruiter.html#writing",
+    "title": "Andy (Duy) Nguyen",
+    "section": "Writing",
+    "text": "Writing\nComing soon — weekly posts on finance, economics, and data."
+  },
+  {
+    "objectID": "Recruiter.html#get-in-touch",
+    "href": "Recruiter.html#get-in-touch",
+    "title": "Andy (Duy) Nguyen",
+    "section": "Get in touch",
+    "text": "Get in touch\nandy.duynguyen.work@gmail.com LinkedIn"
   }
 ]
